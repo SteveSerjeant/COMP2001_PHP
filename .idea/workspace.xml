@@ -26,11 +26,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2479bc3-91a8-4648-ac47-1afaa2dc131e" name="Default Changelist" comment="testing links to git for version control">
-      <change afterPath="$PROJECT_DIR$/UnitFour/public/agreement.php" afterDir="false" />
+    <list default="true" id="a2479bc3-91a8-4648-ac47-1afaa2dc131e" name="Default Changelist" comment="updated files following help from Shirley's repo as could not understand why not working.">
+      <change afterPath="$PROJECT_DIR$/UnitFour/public/process_registration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitFour/public/registrationPanel.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitFour/assets/css/isad251.css" beforeDir="false" afterPath="$PROJECT_DIR$/UnitFour/assets/css/isad251.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitFour/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/UnitFour/public/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UnitFour/public/agreement.php" beforeDir="false" afterPath="$PROJECT_DIR$/UnitFour/public/agreement.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604760862009</updated>
       <workItem from="1604760863094" duration="414000" />
-      <workItem from="1604761296573" duration="8621000" />
+      <workItem from="1604761296573" duration="12414000" />
     </task>
     <task id="LOCAL-00001" summary="testing links to git for version control">
       <created>1604761435860</created>
@@ -93,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604762212152</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated files following help from Shirley's repo as could not understand why not working.">
+      <created>1604776719792</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604776719792</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,21 +146,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="testing links to git for version control" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing links to git for version control" />
+    <MESSAGE value="updated files following help from Shirley's repo as could not understand why not working." />
+    <option name="LAST_COMMIT_MESSAGE" value="updated files following help from Shirley's repo as could not understand why not working." />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Deployment" timestamp="1604761995720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Deployment/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1604761995720" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1604772244568">
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1604781548811">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1604772244568" />
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1604762217906">
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1604781548811" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1604776727198">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1604762217906" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1160@0.0.1920.1040" timestamp="1604776727198" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604761849171">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -11,6 +11,11 @@ include_once 'header.php';
                 echo "Welcome. You have selected: ".$_GET["Agreement"]." : for the agreement"
                 ?>
             </p>
+            <p>
+                <?php
+                include_once ('registrationPanel.php');
+                ?>
+            </p>
 
         </div>
     </div>
